@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+}
+
+.first{
+    height: 700px;
+    display: block;
+    background-color: antiquewhite;
+}
+
+.second{
+    height: 700px;
+    display: none;
+    background-color: rgb(215, 226, 250);
+}
+
+.third{
+    height: 700px;
+    display: none;
+    background-color: rgb(215, 250, 229);
+}
+
+.onosamoe{
+    display: block;
+}
+
+.netosamoe{
+    display: none;
+}
+
+
+.box{
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    background-color: rgb(195, 255, 134);
+}

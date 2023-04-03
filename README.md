@@ -1,1 +1,1 @@
-# remove-section-jquery-
+# Шаблон 
